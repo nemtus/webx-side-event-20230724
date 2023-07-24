@@ -1,0 +1,21 @@
+{
+  "name": "webx-side-event-20230724",
+  "version": "1.0.0",
+  "description": "WebX Side Event, Symbol Blockchain Hands-on for Developers by NEMTUS, https://lu.ma/jnidr8rv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "rxjs": "^7.8.1",
+    "symbol-sdk": "^2.0.4"
+  }
+}
